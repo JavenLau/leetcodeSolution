@@ -1,4 +1,5 @@
 //来自于：数组中重复的数字(剑指offer)+时间复杂度O（n）空间复杂度O（1）的想法
+//http://blog.csdn.net/u010579068/article/details/49514745
 
 #include <stdio.h>
 #include<algorithm> 
