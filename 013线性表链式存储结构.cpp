@@ -1,5 +1,5 @@
 
-
+/* --------------------------- */
 /* 线性表链式存储结构--单链表 */
 typedef struct
 {
@@ -49,7 +49,7 @@ Status ListDelete(LinkList *L,int i,ElemType *e)
 	return OK;
 }
 
-
+/* ----------------------------- */
 /* 线性表链式存储结构--双向链表 */
 typedef struct dulnode
 {
